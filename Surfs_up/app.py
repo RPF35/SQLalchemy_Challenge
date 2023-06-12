@@ -1,6 +1,5 @@
 # Import the dependencies.
-
-
+from flask import Flask
 
 #################################################
 # Database Setup
